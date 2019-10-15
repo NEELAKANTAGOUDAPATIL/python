@@ -26,4 +26,4 @@ while 1:
         print("ans=",mul(a,b))
     elif(ch==4):
         print("ans=",divide(a,b))
-    else:print("improper choice\n")
+    else:print("Improper choice\n")
